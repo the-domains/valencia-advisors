@@ -24,3 +24,6 @@ navigation:
   - name: Contact Us
     id: 5f0d8d4b-7dd1-4131-b511-57b181b1ce82
     type: content
+  - name: Our Partners
+    id: 37918e24-f747-4490-afc2-1d4692fa141f
+    type: content
