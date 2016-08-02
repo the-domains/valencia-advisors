@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-02T17:24:21.104Z'
+datePublished: '2016-08-02T17:35:19.587Z'
 sourcePath: _posts/2016-04-15-lights-l16-pocket-sized-multi-aperture-camera.md
 inFeed: true
 authors: []
@@ -19,8 +19,9 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-02T17:24:20.704Z'
-title: Light's L16 Pocket-Sized Multi-Aperture Camera
+via: {}
+dateModified: '2016-08-02T17:35:19.174Z'
+title: Critical Infrastructure
 app_links: []
 publisher:
   name: Cool Hunting
@@ -28,18 +29,19 @@ publisher:
   url: 'http://www.coolhunting.com'
   favicon: 'http://assets.coolhunting.com/favicon.ico'
 description: >-
-  No other camera looks quite like the newly announced Light L16, with one side
-  featuring a whopping 16 lenses. This visual assessment immediately reveals
-  just how advanced the technology is within the device. When capturing an
-  image, all lenses fire at different focal lengths and a computational software
-  within the camera assembles them to maximize every pixel.
+  Canadian critical industries need to respond to fundamental changes in core
+  areas: production, financial management, communications, and regulations.
+  Valencia’s clients, including energy producers, critical infrastructure
+  providers, and financial firms leverage our capabilities to stay ahead of the
+  curve. We help to identify, measure, and manage technology, privacy and
+  security risks in Canadian industry. From our national banks, to our water
+  treatment plants, Valencia protects.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 url: lights-l16-pocket-sized-multi-aperture-camera/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Light's L16 Pocket-Sized Multi-Aperture Camera</h1><p>No other camera looks quite like the newly announced Light L16, with one side featuring a whopping 16 lenses. This visual assessment immediately reveals just how advanced the technology is within the device. When capturing an image, all lenses fire at different focal lengths and a computational software within the camera assembles them to maximize every pixel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a15091274eec7069ecc73315c0d0bf176c8c5ea.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a15091274eec7069ecc73315c0d0bf176c8c5ea.jpg" /><h1>Critical Infrastructure</h1><p>Canadian critical industries need to respond to fundamental changes in core areas: production, financial management, communications, and regulations. Valencia’s clients, including energy producers, critical infrastructure providers, and financial firms leverage our capabilities to stay ahead of the curve. We help to identify, measure, and manage technology, privacy and security risks in Canadian industry. From our national banks, to our water treatment plants, Valencia protects.</p></article>
