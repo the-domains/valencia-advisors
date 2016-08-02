@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-02T17:18:47.303Z'
+datePublished: '2016-08-02T17:24:21.104Z'
 sourcePath: _posts/2016-04-15-lights-l16-pocket-sized-multi-aperture-camera.md
 inFeed: true
-isBasedOnUrl: 'http://www.coolhunting.com/tech/light-l16-camera'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - camera
   - l16
@@ -20,7 +19,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-02T17:18:46.663Z'
+dateModified: '2016-08-02T17:24:20.704Z'
 title: Light's L16 Pocket-Sized Multi-Aperture Camera
 app_links: []
 publisher:
@@ -38,6 +37,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: lights-l16-pocket-sized-multi-aperture-camera/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
