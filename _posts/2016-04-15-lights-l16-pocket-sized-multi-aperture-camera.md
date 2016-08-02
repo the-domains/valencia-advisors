@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-02T17:35:19.587Z'
+datePublished: '2016-08-02T17:36:06.778Z'
 sourcePath: _posts/2016-04-15-lights-l16-pocket-sized-multi-aperture-camera.md
 inFeed: true
 authors: []
@@ -20,7 +20,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-02T17:35:19.174Z'
+dateModified: '2016-08-02T17:36:06.635Z'
 title: Critical Infrastructure
 app_links: []
 publisher:
@@ -39,7 +39,7 @@ description: >-
 inLanguage: en
 inNav: false
 starred: false
-url: lights-l16-pocket-sized-multi-aperture-camera/index.html
+url: critical-infrastructure/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
