@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-02T17:23:45.635Z'
+datePublished: '2016-08-02T17:31:03.154Z'
 sourcePath: _posts/2016-04-16-timbuk2-blue-bottles-sabbatical-travel-kit.md
 inFeed: true
 hasPage: true
@@ -16,8 +16,9 @@ keywords:
   - craft
 related: []
 author: []
-dateModified: '2016-08-02T17:23:45.145Z'
-title: Timbuk2 + Blue Bottle's Sabbatical Travel Kit
+via: {}
+dateModified: '2016-08-02T17:31:03.039Z'
+title: Welcome to Valencia
 app_links: []
 publisher:
   url: 'http://www.coolhunting.com'
@@ -25,18 +26,15 @@ publisher:
   favicon: 'http://assets.coolhunting.com/favicon.ico'
   domain: www.coolhunting.com
 description: >-
-  If the recent buyouts of Intelligentsia and Stumptown are any indication, the
-  growing popularity of craft coffee shows no signs of slowing down. While
-  single origin pour-overs are now commonplace in many coffeeshops, sometimes
-  when you're off the beaten path, your morning cup of coffee is harder to
-  perfect.
+  We focus on risk, deliver insight, and think forward. Valencia brings the
+  right people together to deliver collaborative, sustainable solutions. We are
+  agents of transformation. 
 inLanguage: en
 inNav: false
-via: {}
 starred: false
-url: timbuk2-blue-bottles-sabbatical-travel-kit/index.html
+url: welcome-to-valencia/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Timbuk2 + Blue Bottle's Sabbatical Travel Kit</h1><p>If the recent buyouts of Intelligentsia and Stumptown are any indication, the growing popularity of craft coffee shows no signs of slowing down. While single origin pour-overs are now commonplace in many coffeeshops, sometimes when you're off the beaten path, your morning cup of coffee is harder to perfect.</p><img src="http://assets.coolhunting.com/coolhunting/2015/11/18/large_timbuk2-blue-bottle-thumb.jpg" /></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d979f42e1fe163d4ad2ae387a8da167c/croprotate.jpg?cropheight=861&amp;cropwidth=1576&amp;degrees=0&amp;input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fba000655e6b2a554855a55a3bfaa786ed97ccb09.jpg&amp;x=0&amp;y=0" /><h1>Welcome to Valencia</h1><p>We focus on risk, deliver insight, and think forward. Valencia brings the right people together to deliver collaborative, sustainable solutions. We are agents of transformation. </p></article>
