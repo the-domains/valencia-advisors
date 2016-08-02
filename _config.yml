@@ -27,3 +27,6 @@ navigation:
   - name: Our Partners
     id: 37918e24-f747-4490-afc2-1d4692fa141f
     type: content
+  - name: Work with Us
+    id: e633372a-26b3-4dd3-9054-8a84b1e78ae2
+    type: content
