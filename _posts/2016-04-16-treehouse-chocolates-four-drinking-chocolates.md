@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-02T17:18:47.281Z'
+datePublished: '2016-08-02T17:37:28.476Z'
 sourcePath: _posts/2016-04-16-treehouse-chocolates-four-drinking-chocolates.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.coolhunting.com/food-drink/treehouse-chocolate-portland-drinking-chocolate
-hasPage: false
+hasPage: true
 keywords:
   - chocolate
   - treehouse
@@ -18,7 +16,7 @@ keywords:
   - sweet
 related: []
 author: []
-dateModified: '2016-08-02T17:18:46.630Z'
+dateModified: '2016-08-02T17:37:28.102Z'
 title: Treehouse Chocolate's Four Drinking Chocolates
 app_links: []
 publisher:
@@ -35,6 +33,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: treehouse-chocolates-four-drinking-chocolates/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
