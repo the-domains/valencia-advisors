@@ -18,3 +18,6 @@ navigation:
   - name: Services
     id: 1956aa3b-68de-4dc8-9d76-96503e8a9fbf
     type: content
+  - name: About Us
+    id: 0fb98f65-304e-4c6a-bb01-b17a53006280
+    type: content
