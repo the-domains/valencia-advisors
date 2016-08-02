@@ -32,3 +32,6 @@ navigation:
   - name: Work with Us
     id: e633372a-26b3-4dd3-9054-8a84b1e78ae2
     type: content
+  - name: Industries
+    id: 1cfd40c0-574a-4a9b-93f6-e7b6063c99f2
+    type: content
