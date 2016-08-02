@@ -11,6 +11,8 @@ color:
     - '#F4EEA9'
     - '#F4F482'
 layout_spectrum: 0.3587046395987272
+analytics:
+  google: UA-22881559-2
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ebab968-9a66-4b6a-b051-b98ecbedbafe.jpg
 name: Valencia Advisors
