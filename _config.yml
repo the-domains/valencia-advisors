@@ -1,4 +1,3 @@
-layout_spectrum: 0.3587046395987272
 typography_spectrum: 0.4924014136195183
 color:
   brandStrength: 0.09092769562266767
@@ -11,6 +10,11 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-name: Valencia Advisors
+layout_spectrum: 0.3587046395987272
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ebab968-9a66-4b6a-b051-b98ecbedbafe.jpg
+name: Valencia Advisors
+navigation:
+  - name: Services
+    id: 1956aa3b-68de-4dc8-9d76-96503e8a9fbf
+    type: content
