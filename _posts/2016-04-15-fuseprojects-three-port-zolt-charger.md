@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-02T17:34:33.900Z'
+datePublished: '2016-08-02T17:36:51.917Z'
 sourcePath: _posts/2016-04-15-fuseprojects-three-port-zolt-charger.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-02T17:34:33.568Z'
+dateModified: '2016-08-02T17:36:51.538Z'
 title: Public Sector
 app_links: []
 publisher: {}
