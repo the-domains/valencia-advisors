@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-02T17:18:47.304Z'
+datePublished: '2016-08-02T17:24:40.488Z'
 sourcePath: _posts/2016-04-16-ossic-headphones-create-3d-audio-unique-to-you.md
 inFeed: true
-isBasedOnUrl: >-
-  http://mashable.com/2016/04/15/ossic-x-3d-headphones/?utm_cid=mash-prod-nav-sub-st#1t2MANqDGPqa
-hasPage: false
+hasPage: true
 keywords:
   - ossic
   - headphones
@@ -18,7 +16,7 @@ keywords:
   - source
 related: []
 author: []
-dateModified: '2016-08-02T17:18:46.526Z'
+dateModified: '2016-08-02T17:24:40.109Z'
 title: Ossic headphones create 3D audio unique to you
 app_links: []
 publisher:
@@ -34,6 +32,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: ossic-headphones-create-3d-audio-unique-to-you/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
