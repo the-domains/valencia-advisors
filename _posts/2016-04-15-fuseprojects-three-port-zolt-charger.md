@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-02T17:22:31.279Z'
+datePublished: '2016-08-02T17:34:04.673Z'
 sourcePath: _posts/2016-04-15-fuseprojects-three-port-zolt-charger.md
 inFeed: true
 hasPage: true
@@ -16,27 +16,27 @@ keywords:
   - usbs
 related: []
 author: []
-dateModified: '2016-08-02T17:22:30.744Z'
-title: Fuseproject's Three-Port Zolt Charger
+via: {}
+dateModified: '2016-08-02T17:34:04.154Z'
+title: Public Sector
 app_links: []
-publisher:
-  url: 'http://www.coolhunting.com'
-  name: Cool Hunting
-  favicon: 'http://assets.coolhunting.com/favicon.ico'
-  domain: www.coolhunting.com
+publisher: {}
 description: >-
-  Launching today, the Zolt Laptop Charger aims to make powering all your
-  devices faster, easier and much less cumbersome. The charger-designed by
-  fuseproject -is a sleek, lightweight device with three USB ports. This
-  translates to charging three devices (laptop, phone, smartwatch, portable
-  phone-charger, you name it) all at once-while only using one power outlet.
+  Aligning public sector priorities with privacy and security needs – and
+  legislation is a balancing act. Valencia practitioners have worked for, and
+  with Canadian and international federal, provincial and municipal
+  organizations. With deep experience developing policy, implementing programs,
+  and assessing risks in public sector, Valencia is a public sector partner.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 url: fuseprojects-three-port-zolt-charger/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Fuseproject's Three-Port Zolt Charger</h1><p>Launching today, the Zolt Laptop Charger aims to make powering all your devices faster, easier and much less cumbersome. The charger-designed by fuseproject -is a sleek, lightweight device with three USB ports. This translates to charging three devices (laptop, phone, smartwatch, portable phone-charger, you name it) all at once-while only using one power outlet.</p><img src="http://assets.coolhunting.com/coolhunting/2015/11/03/large_Zolt_Charger_02.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/257660d6-b6a9-4f31-a80b-841256edff52.tiff)
+
+# Public Sector
+
+Aligning public sector priorities with privacy and security needs -- and legislation is a balancing act. Valencia practitioners have worked for, and with Canadian and international federal, provincial and municipal organizations. With deep experience developing policy, implementing programs, and assessing risks in public sector, Valencia is a public sector partner.
