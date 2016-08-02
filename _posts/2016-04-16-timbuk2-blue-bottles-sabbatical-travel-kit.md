@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-02T17:31:03.154Z'
+datePublished: '2016-08-02T17:31:04.934Z'
 sourcePath: _posts/2016-04-16-timbuk2-blue-bottles-sabbatical-travel-kit.md
 inFeed: true
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-02T17:31:03.039Z'
+dateModified: '2016-08-02T17:30:31.475Z'
 title: Welcome to Valencia
 app_links: []
 publisher:
@@ -32,7 +32,7 @@ description: >-
 inLanguage: en
 inNav: false
 starred: false
-url: welcome-to-valencia/index.html
+url: timbuk2-blue-bottles-sabbatical-travel-kit/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
