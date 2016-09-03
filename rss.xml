@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Valencia Advisors]]></title>
-        <description><![CDATA[Valencia Advisors]]></description>
+        <title><![CDATA[Information and Infrastructure Protection]]></title>
+        <description><![CDATA[Information and Infrastructure Protection]]></description>
         <link>https://thegrid.ai/valencia-advisors/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 17:37:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 13:53:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/valencia-advisors/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Critical Infrastructure]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f045d05-db16-4056-8dff-a2af6e07e108.jpg">]]></description>
+            <link>https://thegrid.ai/valencia-advisors/lights-l16-pocket-sized-multi-aperture-camera/index.html</link>
+            <guid isPermaLink="false">37918e24-f747-4490-afc2-1d4692fa141f</guid>
+            <pubDate>Wed, 31 Aug 2016 13:53:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Treehouse Chocolate's Four Drinking Chocolates]]></title>
             <description><![CDATA[<article><h1>Treehouse Chocolate's Four Drinking Chocolates</h1><p>Winter may be officially over in the Northern Hemisphere, but that doesn't mean hot chocolate has to disappear from people's radar until temperatures cool again. For some of us, it makes for a viable alternative to coffee in the morning-with some serious sugar and cocoa kick.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/707cfeb12d925cddf6493a0f7a931b18979b2c86.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/valencia-advisors/critical-infrastructure/index.html</link>
             <guid isPermaLink="false">2c7f20d5-4561-4f64-91b5-f112dcd413a0</guid>
             <pubDate>Tue, 02 Aug 2016 17:36:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Critical Infrastructure]]></title>
-            <description><![CDATA[<article><h1>Critical Infrastructure</h1><p>Canadian critical industries need to respond to fundamental changes in core areas: production, financial management, communications, and regulations. Valencia’s clients, including energy producers, critical infrastructure providers, and financial firms leverage our capabilities to stay ahead of the curve. We help to identify, measure, and manage technology, privacy and security risks in Canadian industry. From our national banks, to our water treatment plants, Valencia protects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a15091274eec7069ecc73315c0d0bf176c8c5ea.jpg"></article>]]></description>
-            <link>https://thegrid.ai/valencia-advisors/lights-l16-pocket-sized-multi-aperture-camera/index.html</link>
-            <guid isPermaLink="false">37918e24-f747-4490-afc2-1d4692fa141f</guid>
-            <pubDate>Tue, 02 Aug 2016 17:35:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Welcome to Valencia]]></title>
