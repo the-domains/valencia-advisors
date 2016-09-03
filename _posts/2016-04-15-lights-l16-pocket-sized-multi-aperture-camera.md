@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-02T17:36:06.778Z'
+datePublished: '2016-08-31T13:53:41.076Z'
 sourcePath: _posts/2016-04-15-lights-l16-pocket-sized-multi-aperture-camera.md
 inFeed: true
 authors: []
@@ -16,32 +16,19 @@ keywords:
   - within
   - pre-composite
 related: []
-author:
-  - name: ''
-    url: ''
+author: []
 via: {}
-dateModified: '2016-08-02T17:36:06.635Z'
-title: Critical Infrastructure
+dateModified: '2016-08-31T13:53:40.417Z'
+title: ''
 app_links: []
-publisher:
-  name: Cool Hunting
-  domain: www.coolhunting.com
-  url: 'http://www.coolhunting.com'
-  favicon: 'http://assets.coolhunting.com/favicon.ico'
-description: >-
-  Canadian critical industries need to respond to fundamental changes in core
-  areas: production, financial management, communications, and regulations.
-  Valencia’s clients, including energy producers, critical infrastructure
-  providers, and financial firms leverage our capabilities to stay ahead of the
-  curve. We help to identify, measure, and manage technology, privacy and
-  security risks in Canadian industry. From our national banks, to our water
-  treatment plants, Valencia protects.
+publisher: {}
+description: ''
 inLanguage: en
 inNav: false
 starred: false
-url: critical-infrastructure/index.html
+url: lights-l16-pocket-sized-multi-aperture-camera/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a15091274eec7069ecc73315c0d0bf176c8c5ea.jpg" /><h1>Critical Infrastructure</h1><p>Canadian critical industries need to respond to fundamental changes in core areas: production, financial management, communications, and regulations. Valencia’s clients, including energy producers, critical infrastructure providers, and financial firms leverage our capabilities to stay ahead of the curve. We help to identify, measure, and manage technology, privacy and security risks in Canadian industry. From our national banks, to our water treatment plants, Valencia protects.</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f045d05-db16-4056-8dff-a2af6e07e108.jpg)
